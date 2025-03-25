@@ -1,0 +1,2 @@
+# my_project_zb
+使用BeautifulSoup定向爬取各高校官网招标信息,并依据Django的MVT架，对爬取数据进行过滤分类等管理操作以响应用户需求。
